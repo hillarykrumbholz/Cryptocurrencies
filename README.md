@@ -25,10 +25,12 @@ Code can be found [Here](https://github.com/hillarykrumbholz/Cryptocurrencies/bl
 Elbow Curve<br>
 ![Elbow Curve](https://github.com/hillarykrumbholz/Cryptocurrencies/blob/master/Images/ElbowCurve.png)<br>
 
-3D Scatter Plot
+3D Scatter Plot<br>
 ![3D Scatter](https://github.com/hillarykrumbholz/Cryptocurrencies/blob/master/Images/3D_plot.png)<br>
 
-Cluster Plot
+Cluster Plot<br>
 ![Clusters](https://github.com/hillarykrumbholz/Cryptocurrencies/blob/master/Images/Scatter_plot.png)<br>
 
 ## Conclusion
+
+After processing the data (removing null values, cryptocurrencies that aren't currently trading, and removing text features), I was left with 532 cryptocurrencies. The dimensions were then reduced to three principal components and an elbow curve was created to visualize and find the best value for K, which is 4. A 3D plot was then created to visualize the clusters based on the three principal components. Lastly, a scatter plot was created to display the clusters and their relation to the total of coins mined by their total supply. 
