@@ -20,7 +20,9 @@ A prominent investment bank, is interested in offering a new cryptocurrencies in
 - Create some plots and data tables to present your results.
  
 ## Results
-Elbow Curve:
+Code can be found [Here](https://github.com/hillarykrumbholz/Cryptocurrencies/blob/master/Challenge.ipynb)<br>
+
+Elbow Curve
 ![Elbow Curve](https://github.com/hillarykrumbholz/Cryptocurrencies/blob/master/Images/ElbowCurve.png)<br>
 
 3D Scatter Plot
